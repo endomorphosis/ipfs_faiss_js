@@ -1,0 +1,24 @@
+{
+    "name": "ipfs_faiss_js",
+    "version": "1.0.1",
+    "description": "This is a library that handles using ipfs CAR files and PAIL DAGs to store and retrieve faiss indexes.",
+    "type": "module",
+    "main": "index.js",
+    "dependencies": {
+      "@mwni/toml": "^1.0.0",
+      "util": "^0.12.5"
+    },
+    "scripts": {
+      "test": " node tests/test.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/endomorphosis/ipfs_faiss_js.git"},
+    "author": "Benjamin Barber",
+    "license": "AGPL-3.0-only",
+    "bugs": {
+      "url": "https://github.com/endomorphosis/ipfs_faiss_js/issues"
+    },
+    "homepage": "https://github.com/endomorphosis/ipfs_faiss_js#readme"
+  }
+  
