@@ -1,6 +1,6 @@
 {
     "name": "ipfs_faiss_js",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "This is a library that handles using ipfs CAR files and PAIL DAGs to store and retrieve faiss indexes.",
     "type": "module",
     "main": "index.js",
