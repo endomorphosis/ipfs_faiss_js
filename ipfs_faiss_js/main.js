@@ -11,3 +11,5 @@ export class ipfsFaissJs {
     throw new Error('ipfs_faiss_js.test() not implemented');
   } 
 }
+
+export default ipfsFaissJs;
