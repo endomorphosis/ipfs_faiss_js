@@ -7,7 +7,7 @@ import { t } from "tar";
 export class test_ipfs_faiss_js {
     constructor() {
         this.imports = {};
-        this.config = requireConfig();
+        // this.config = requireConfig();
     }
     async init() {
         let init_results = {}
